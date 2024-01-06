@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Delvin</h1>
 <h3 align="center">A passionate android developer from Peru 🇵🇪</h3>
-![Blue Modern Illustration Programmer LinkedIn Banner](https://github.com/Delvinol/Delvinol/assets/128867806/de6c053b-9737-4bb9-9518-abc14e4f4415)
+
+![Uploading Blue Modern Illustration Programmer LinkedIn Banner.gif…]()
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delvinol&label=Profile%20views&color=0e75b6&style=flat" alt="delvinol" /> </p>
 
