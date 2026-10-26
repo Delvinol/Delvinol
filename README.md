@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/delvinlarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delvinlarez" height="30" width="40" /></a>
 <a href="https://fb.com/delvin.larez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="delvin.larez" height="30" width="40" /></a>
-<a href="https://instagram.com/dolme02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dolme02" height="30" width="40" /></a>
+<a href="https://instagram.com/delvinoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="delvinoli" height="30" width="40" /></a>
 <a href="https://discord.gg/delvinol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="delvinol" height="30" width="40" /></a>
 </p>
 
