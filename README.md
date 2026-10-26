@@ -10,15 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delvinol&label=Profile%20views&color=0e75b6&style=flat" alt="delvinol" /> </p>
 
-- 🌱 I’m currently learning **Android Studio and Swift**
+- 🌱 I’m currently learning **A lot!**
 
-- 🤝 I’m looking for help with **any native mobile project**
-
-- 💬 Ask me about **mobile development**
+- 🤝 I’m looking for help with **any native Java/Kotlin mobile project**
 
 - 📫 How to reach me **delvinonlm@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I got lost like 5 time when I was a child... lol?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
