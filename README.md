@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delvinol&label=Profile%20views&color=0e75b6&style=flat" alt="delvinol" /> </p>
 
-- 🌱 I’m currently learning **A lot!**
+- 🌱 I’m currently building **A lot!**
 
 - 🤝 I’m looking for help with **any native Java/Kotlin mobile project**
 
