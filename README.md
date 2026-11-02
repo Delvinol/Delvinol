@@ -31,5 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delvinol&show_icons=true&locale=en&layout=compact" alt="delvinol" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delvinol&show_icons=true&locale=en" alt="delvinol" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delvinol&" alt="delvinol" /></p>
+
+
